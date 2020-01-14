@@ -201,8 +201,14 @@
 	<dict>
 		<key>CustomIcons</key>
 		<false/>
+		<key>Hide</key>
+		<array>
+			<string>Recovery</string>
+			<string>Files</string>
+			<string>Preboot</string>
+		</array>
 		<key>Language</key>
-		<string>it:0</string>
+		<string>en:0</string>
 		<key>Mouse</key>
 		<dict>
 			<key>DoubleClick</key>
@@ -213,11 +219,11 @@
 			<integer>8</integer>
 		</dict>
 		<key>ScreenResolution</key>
-		<string>2560x1600</string>
+		<string>1920x1080</string>
 		<key>TextOnly</key>
 		<false/>
 		<key>Theme</key>
-		<string>embedded</string>
+		<string>Minimalist-ursa</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -317,25 +323,23 @@
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
-		<key>MLB</key>
-		<string>C02032109R5DC771H</string>
 		<key>ROM</key>
 		<string>UseMacAddr0</string>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>12/21/2017</string>
+		<string>10/30/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM181.88Z.0154.B00.1712211718</string>
+		<string>IM183.88Z.F000.B00.1910301943</string>
 		<key>Board-ID</key>
-		<string>Mac-4B682C642B45593E</string>
+		<string>Mac-77F17D7DA9285301</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02737104OPDJWPCB</string>
+		<string>C02707902J9J0DX1F</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -346,23 +350,18 @@
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x09</string>
+		<key>EfiVersion</key>
+		<string>179.0.0.0.0</string>
 		<key>Family</key>
 		<string>iMac</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFC0FE137</string>
+		<string>0xFC0FE176</string>
 		<key>FirmwareFeaturesMask</key>
-		<string>0xFF1FFF3F</string>
+		<string>0xFF1FFF7F</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>Manufacturer</key>
 		<string>Apple Inc.</string>
-		<key>Memory</key>
-		<dict>
-			<key>Channels</key>
-			<integer>1</integer>
-			<key>SlotCount</key>
-			<integer>4</integer>
-		</dict>
 		<key>Mobile</key>
 		<false/>
 		<key>PlatformFeature</key>
@@ -370,9 +369,9 @@
 		<key>ProductName</key>
 		<string>iMac18,2</string>
 		<key>SerialNumber</key>
-		<string>C02VDVKXH7JY</string>
+		<string>C02T8NZYJ1G5</string>
 		<key>SmUUID</key>
-		<string>B0616F5A-9222-46AE-BA3A-FB38160D3D17</string>
+		<string>309C699E-FBCC-4A1E-9D91-22A2656254E3</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
